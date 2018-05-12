@@ -1,0 +1,27 @@
+_repo: The-Prairie-Schooner_40497
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40497-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hooker, William Francis
+    birthdate: 1856
+    deathdate: 1938
+    gutenberg_agent_id: '40662'
+    url: http://www.gutenberg.org/2009/agents/40662
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40497'
+  lccn: '18006070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'F590.3'
+title: The Prairie Schooner
+url: http://www.gutenberg.org/ebooks/40497
